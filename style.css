@@ -1,0 +1,17 @@
+.ok{
+    background-color: aquamarine;
+}
+
+@media (max-width: 980px){
+    .ok{
+        background-color: navy;
+    }
+}
+
+div.fixed {
+    position: fixed;
+    bottom: 100;
+    right: 100;
+    width: 300px;
+    
+  }
